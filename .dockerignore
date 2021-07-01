@@ -1,0 +1,12 @@
+.gitignore
+.dockerignore
+venv
+__pycache__
+.git
+.ssh
+.cache
+.vscode-server
+.bash
+.profile
+.viminfo
+__init__
